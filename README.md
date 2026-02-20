@@ -1,0 +1,2 @@
+# Linear-Prediction-for-Financial-and-Blockchain-Time-Series-Analysis-ECE-466-Honors-Project-
+This project applies linear prediction to model DJIA and Ethereum time series data. It includes least squares predictor design, time domain error minimization, frequency domain analysis via Parseval’s relation, and investment strategy evaluation. The repository provides documented MATLAB implementations and model performance comparisons.
